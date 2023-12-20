@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: HotelReservationSystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: aishwarya
+Implementation-Vendor-Id: com
+Build-Jdk: 1.8.0_371
+Implementation-URL: https://spring.io/projects/spring-boot/HotelReserv
+ ationSystem
+Created-By: Maven Integration for Eclipse
+
